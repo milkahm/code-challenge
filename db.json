@@ -1,0 +1,29 @@
+{
+    "ramens": [
+      {
+        "id": "1",
+        "name": "Shoyu Ramen",
+        "restaurant": "Ichiran",
+        "image": "https://www.marionskitchen.com/wp-content/uploads/2019/05/Shoyu-Ramen3-500x500.jpg",
+        "rating": 5,
+        "comment": "Delicious!"
+      },
+      {
+        "id": "2",
+        "name": "Miso Ramen",
+        "restaurant": "Menya",
+        "image": "https://dishingouthealth.com/wp-content/uploads/2022/01/SpicyMisoRamen_Square.jpg",
+        "rating": 4,
+        "comment": "Very flavorful!"
+      },
+      {
+        "id": "3",
+        "name": "Tonkotsu Ramen",
+        "restaurant": "Ramen-Ya",
+        "image": "https://cringeykitchen.com/wp-content/uploads/2019/09/LRM_EXPORT_1639605208581839_20190612_182146420.jpg",
+        "rating": 4,
+        "comment": "Rich and creamy!"
+      }
+    ]
+  }
+  
